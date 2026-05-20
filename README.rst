@@ -187,6 +187,7 @@ development version
 
 * Dropped support for Python 3.8
 * Started supporting Python 3.13
+* Started supporting Python 3.14
 
 v2.0.2 (2024-06-12)
 ~~~~~~~~~~~~~~~~~~~
